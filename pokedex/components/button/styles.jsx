@@ -9,6 +9,6 @@ export const styles = StyleSheet.create({
     },
     buttonText: {
         color: "#fff",
-        fontWeight: "bold",
-    }
+        fontWeight: "bold"
+    },
 });
